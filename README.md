@@ -61,7 +61,7 @@ Please do not hesitate to contact us if you have any question. asmaa.husien@mail
 
  If you used XDecompo and found it useful, please cite the following papers:
  
- •	Abbas A, Gaber MM., Abdelsamea MM. **XDecompo: eXplainable Decomposition Approach in Convolutional Neural Networks for Tumour Image Classification. **. 
+ •	Abbas A, Gaber MM., Abdelsamea MM. **XDecompo: eXplainable Decomposition Approach in Convolutional Neural Networks for Tumour Image Classification. Sensors 2022**. 
 
 
 
