@@ -46,11 +46,11 @@ XDecompo has achieved an overall accuracy of 97.44% with a specificity of 90.87%
 
 Fig: Visualisation of deep features for each model of CRC test set
 
-![1]( https://github.com/AsmaaAbbasHassan/XDecompo/blob/main/images/CRC.png)
+![1]( https://github.com/Asmaa-AbbasHassan/XDecompo/blob/main/images/CRC.png)
 
 Fig: Visualisation of deep features for each model of brain tumour test set
 
-![2]( https://github.com/AsmaaAbbasHassan/XDecompo/blob/main/images/brain%20tumour_dataset.png)
+![2]( https://github.com/Asmaa-AbbasHassan/XDecompo/blob/main/images/brain.png)
 
 
 
