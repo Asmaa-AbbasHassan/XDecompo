@@ -65,6 +65,6 @@ Please do not hesitate to contact us if you have any question. asmaa.husien@mail
 
  
 ## License
-[MIT](https://github.com/AsmaaAbbasHassan/XDecompo/blob/master/LICENSE)
+[MIT]()
 
 
