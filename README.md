@@ -61,10 +61,7 @@ Please do not hesitate to contact us if you have any question. asmaa.husien@mail
 
  If you used XDecompo and found it useful, please cite the following papers:
  
- •	Abbas A, Abdelsamea MM, Gaber MM. DeTraC: **4s-dt: Self-supervised super sample decomposition for transfer learning with application to covid-19 detection. IEEE Transactions on Neural Networks and Learning Systems 32 (7), 2798-2808**. 
+ •	Abbas A, Gaber MM., Abdelsamea MM. **XDecompo: eXplainable Decomposition Approach in Convolutional Neural Networks for Tumour Image Classification. **. 
 
- 
-## License
-[MIT](https://github.com/Asmaa-AbbasHassan/XDecompo/tree/add-license-1)
 
 
